@@ -1,0 +1,7 @@
+__pycache__/*
+.idea/*
+*.dat
+*.pyc
+data/*
+env/*
+logs/*
